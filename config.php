@@ -18,7 +18,14 @@
 		"template",
 		"cache.php",
 		"indexes.php"
-	);
+		".composer"
+		".heroku"
+		".profile.d"
+		"vendor"
+		"Procfile"
+		"README.md"
+		"composer.json"
+);
 	//设置IP与密码
 	$config = array(
 		"allowip"	=>	array(
